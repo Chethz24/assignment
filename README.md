@@ -15,7 +15,6 @@ The Job Application Web App is a simple web-based system that allows users to ap
 
 ## Features
 - User authentication (Sign up, Login, Logout)
-- Job listings with detailed descriptions
 - Application submission with resume upload
 - Admin panel for managing job listings and applications
 - Responsive design for mobile and desktop compatibility
@@ -33,32 +32,6 @@ Ensure you have the following installed on your machine:
 - MongoDB
 - Git
 
-### Steps
-1. Clone the repository:
-   bash
-   git clone https://github.com/yourusername/job-application-webapp.git
-   cd job-application-webapp
-   
-2. Install dependencies:
-   bash
-   npm install
-   
-3. Set up environment variables (create a .env file):
-   
-   MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_secret_key
-   
-4. Start the backend server:
-   bash
-   npm run server
-   
-5. Navigate to the client folder and start the frontend:
-   bash
-   cd client
-   npm start
-   
-6. Open the application in your browser at http://localhost:3000
-
 ## Usage
 - Register or log in to your account.
 - Browse available job listings.
@@ -74,12 +47,11 @@ We welcome contributions! To contribute:
 5. Open a Pull Request.
 
 ## License
-This project is licensed under the MIT License. See LICENSE for details.
+This project is licensed under the MIT License.
 
 ## Contact
 For any queries, feel free to contact:
-- Email: your-email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: chethana2408@gmail.com
 
----
-Happy Coding! 🚀
+
+
